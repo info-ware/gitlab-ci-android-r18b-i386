@@ -4,7 +4,7 @@
 # https://hub.docker.com/r/infoware/gitlab-ci-android-r18b/
 #
 
-FROM ubuntu:18.04
+FROM i386/ubuntu:18.04
 MAINTAINER infoware <github@infoware.de>
 
 # must be updated in case of new versions
